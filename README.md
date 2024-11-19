@@ -1,6 +1,6 @@
 # Image Processing Tool
 
-#Overview
+
 
 This Python-based **Image Processing Tool** allows you to perform various image manipulation operations through an interactive menu-driven program. It uses the **Pillow (PIL)** library to load and process the images.
 -------------------------------------------------------------------------------------
