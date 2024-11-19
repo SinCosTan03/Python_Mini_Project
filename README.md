@@ -6,14 +6,14 @@ This Python-based **Image Processing Tool** allows you to perform various image 
 -------------------------------------------------------------------------------------
 
 ## Features
-- Load Image: Load an image from your computer.
+- Load Image:       Load an image from your computer.
 - Grayscale Filter: Convert the image to grayscale.
-- Sepia Filter: Apply a sepia tone for a vintage effect.
-- Blur Filter: Add a blur effect to the image.
-- Resize Image: Change the dimensions of the image to any width and height.
-- Rotate Image: Rotate the image by a specified angle.
-- Save Image: Save the processed image to a file.
-- Show Image: View the image in your system's default image viewer.
+- Sepia Filter:     Apply a sepia tone for a vintage effect.
+- Blur Filter:      Add a blur effect to the image.
+- Resize Image:     Change the dimensions of the image to any width and height.
+- Rotate Image:     Rotate the image by a specified angle.
+- Save Image:       Save the processed image to a file.
+- Show Image:       View the image in your system's default image viewer.
 
 ------------------------------------------------------------------------------------
 
